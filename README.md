@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed A. Yildiz</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Abdullah Yildiz</h1>
 <h3 align="center">A passionate backend developer from United States</h3>
 
 - 🔭 I’m currently working on **Project Management**
