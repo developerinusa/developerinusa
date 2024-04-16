@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Abdullah Yildiz</h1>
 <h3 align="center">A passionate backend developer from United States</h3>
 
-- 🔭 I’m currently working on **Project Management**
+- 🔭 I’m currently working for **Anderson Merchandisers**
 
 - 🌱 I’m currently learning **Golang, C#**
 
